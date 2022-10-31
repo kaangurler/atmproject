@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2855201d-3696-4555-bc35-2de557b6c132" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATMProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/entities/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/entities/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/menu/ATMMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/menu/AdminMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/menu/LoginMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/menu/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/menu/RegisterMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/operations/ATMOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/operations/AdminOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/operations/LoginOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atmproject/operations/RegisterOperations.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GdIkufOryEAijhyxhfJIbqQwXj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2855201d-3696-4555-bc35-2de557b6c132" name="Changes" comment="" />
+      <created>1666712182857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666712182857</updated>
+      <workItem from="1666712184884" duration="19376000" />
+      <workItem from="1666993328030" duration="28341000" />
+      <workItem from="1667132196957" duration="16704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
